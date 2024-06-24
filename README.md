@@ -31,4 +31,15 @@ Number of rows: 5,811
                     4: 'Very Low' (HealthImpactScore < 20)
 
 
+# Analysis 
 
+Interesting findings:
+1. Although, according to the definition, the HealthImpactClass variable is classified according to the HealthImpactScore, there are some discripencies. The average health score for health class 2 and 3 are outside of their ranges.
+
+![342479229-d290a71a-6f9f-458b-aa64-909f298bc9b6](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/5afb3740-de5a-4051-b5e7-8ac114cfcb3a)
+
+Looking further, we can see that there are more cases of incorrect classification present in the data.
+
+![Screenshot 2024-06-24 at 21 32 20](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/83357c2f-0cc4-4249-9284-521bbc923164)
+
+So, all health classes have record that have health scores outside of their range. For health class 4, it is all the variables that have been incorrectly classified. Assuming that the health score has been correctly assigned to each record, we can proceed with the analysis and ignore the HealthImpactClass for now. 
