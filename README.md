@@ -42,4 +42,8 @@ Looking further, we can see that there are more cases of incorrect classificatio
 
 ![Screenshot 2024-06-24 at 21 32 20](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/83357c2f-0cc4-4249-9284-521bbc923164)
 
-So, all health classes have record that have health scores outside of their range. For health class 4, it is all the variables that have been incorrectly classified. Assuming that the health score has been correctly assigned to each record, we can proceed with the analysis and ignore the HealthImpactClass for now. 
+So, all health classes have record that have health scores outside of their range. For health class 4, it is all the variables that have been incorrectly classified. Assuming that the health score has been correctly assigned to each record, we can proceed with the analysis and ignore the HealthImpactClass for now. Instead, let's replicate that variable, but this time assigning the class correctly. 
+
+![Screenshot 2024-06-24 at 21 49 56](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/43d9734b-69eb-4ca0-b7ed-820d35d76c7c)
+
+Now we can see that the averages make sense. Also, it's very interesting that the respiratory cases, cardiovascular cases and hostpital admissions seem to allign according tot he health score ranking. Before corrections, the numbers didn't make much sense and seemed to be random. There is a clear trend - worse health impact score means more hospital admissions and more respiratory/cardiovascular cases registered. Unofrtuantely, there is not a single record indicating very low health impact. 
