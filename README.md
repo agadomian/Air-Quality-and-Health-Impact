@@ -33,7 +33,7 @@ Number of rows: 5,811
 
 # Analysis 
 
-Interesting findings:
+### Interesting findings:
 1. Although, according to the definition, the HealthImpactClass variable is classified according to the HealthImpactScore, there are some discripencies. The average health score for health class 2 and 3 are outside of their ranges.
 
 ![342479229-d290a71a-6f9f-458b-aa64-909f298bc9b6](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/5afb3740-de5a-4051-b5e7-8ac114cfcb3a)
@@ -47,3 +47,10 @@ So, all health classes have record that have health scores outside of their rang
 ![Screenshot 2024-06-24 at 21 49 56](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/43d9734b-69eb-4ca0-b7ed-820d35d76c7c)
 
 Now we can see that the averages make sense. Also, it's very interesting that the respiratory cases, cardiovascular cases and hostpital admissions seem to allign according tot he health score ranking. Before corrections, the numbers didn't make much sense and seemed to be random. There is a clear trend - worse health impact score means more hospital admissions and more respiratory/cardiovascular cases registered. Unofrtuantely, there is not a single record indicating very low health impact. 
+
+2. Average Air Quality Index seems to follow the Health Class variable pretty well.
+   The better the air quality, the better the health class - hence, less hospital admissions or health issues reported.
+   
+![Screenshot 2024-06-24 at 22 03 12](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/78ed4dec-9c8b-4fb5-873f-d0d42211b475)
+
+
