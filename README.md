@@ -53,4 +53,18 @@ Now we can see that the averages make sense. Also, it's very interesting that th
    
 ![Screenshot 2024-06-24 at 22 03 12](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/78ed4dec-9c8b-4fb5-873f-d0d42211b475)
 
+It is by no means a perfect indicator. We can see that there are cases where the AQI is almost equal to 0, but the health score is classified as very impactful. 
+
+![Screenshot 2024-06-24 at 22 12 09](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/8e751b10-495c-44f4-a22d-e38e81464445)
+
+The concentration of particule matter (both PM10 and PM2_5) seem to be indicating well the AQI variable. The higher concentration, the worse the air quality. Moreover, the concentration of nitrogen dioxide (NO2) and ozone (O3) also seem to be playing a role. The higher those concetrations, the better the quality of air. There is no strong indicator when it comes to sulfur dioxide (SO2) concetrations.
+
+
+Furthermore, the temperature doesn't seem to influence the air quality metrics but humidity shows a small similarities with PM10 variable. The higher the humidity, the more concentrated PM10. That is a very subtle trend, so of course, it could be random. To undersdtand it, we'd need more data.
+
+![Screenshot 2024-06-24 at 22 27 59](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/4bde0fad-e762-40a4-9cfb-f16080abd51f)
+
+![Screenshot 2024-06-24 at 22 27 45](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/cd63569d-f3d6-47eb-b97d-e2f7f8bc87bb)
+
+
 
