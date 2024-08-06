@@ -1,3 +1,5 @@
+*Air quality data analysis using SQL only.*
+
 # Air Quality and Health Impact Dataset Analysis
   This dataset contains comprehensive information on the air quality and its impact on public health for 5,811 records. 
 First, I'll dive into the data using SQL to get a better understanding of it. That will come in hand when building a dashboard in Tableau. 
