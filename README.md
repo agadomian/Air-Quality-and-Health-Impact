@@ -1,4 +1,4 @@
-*Air quality data analysis using SQL & Power BI.*
+*Air quality data analysis using SQL.*
 
 # Air Quality and Health Impact Dataset Analysis
   This dataset contains comprehensive information on the air quality and its impact on public health for 5,811 records.
@@ -67,5 +67,6 @@ Furthermore, the temperature doesn't seem to influence the air quality metrics b
 
 ![Screenshot 2024-06-24 at 22 27 45](https://github.com/agadomian/Air-Quality-and-Health-Impact/assets/100043908/cd63569d-f3d6-47eb-b97d-e2f7f8bc87bb)
 
-
+The code used to produce the summaries can be found above. 
+After finishing the analysis, I created a dashboard in Power BI. The file can be found above, but here's a quick view:
 
