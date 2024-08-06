@@ -80,8 +80,8 @@ The concentration of particule matter (both PM10 and PM2_5) seem to be indicatin
 
 Furthermore, the temperature doesn't seem to influence the air quality metrics but humidity shows a small similarities with PM10 variable. The higher the humidity, the more concentrated PM10. That is a very subtle trend, so of course, it could be random. To undersdtand it, we'd need more data.
 
-The code used to produce the summaries can be found above. 
-After finishing the analysis, I created a dashboard in Power BI. The file can be found above, but here's a quick view:
+📌 The code used to produce the summaries can be found above. 
+    After finishing the analysis, I created a dashboard in Power BI. The file can also be found above, but here's a quick view:
 
 ![image](https://github.com/user-attachments/assets/40bb12f6-082c-401b-9829-3c171e6afae7)
 
