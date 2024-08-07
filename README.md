@@ -87,4 +87,4 @@ Furthermore, the temperature doesn't seem to influence the air quality metrics b
 ![image](https://github.com/user-attachments/assets/c620d4eb-24fd-4565-a518-dd45afb1d50b)
 
 
-*Picture 7: Screenshot of Power BI dashboard
+*Picture 7: Screenshot of Power BI dashboard*
