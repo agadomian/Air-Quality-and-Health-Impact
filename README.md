@@ -84,7 +84,7 @@ Furthermore, the temperature doesn't seem to influence the air quality metrics b
 📌 The code used to produce the summaries can be found above. 
     After finishing the analysis, I created a dashboard in Power BI. The file can also be found above, but here's a quick view:
 
-![image](https://github.com/user-attachments/assets/40bb12f6-082c-401b-9829-3c171e6afae7)
+![image](https://github.com/user-attachments/assets/c620d4eb-24fd-4565-a518-dd45afb1d50b)
 
 
 *Picture 7: Screenshot of Power BI dashboard
